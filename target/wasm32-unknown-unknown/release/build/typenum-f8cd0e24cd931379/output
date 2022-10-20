@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\Krystyna\Documents\GitHub\radix-event-october\radixdlt-scrypto\examples\boilerplate\target\wasm32-unknown-unknown\release\build\typenum-f8cd0e24cd931379\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\Krystyna\Documents\GitHub\radix-event-october\radixdlt-scrypto\examples\boilerplate\target\wasm32-unknown-unknown\release\build\typenum-f8cd0e24cd931379\out\op.rs

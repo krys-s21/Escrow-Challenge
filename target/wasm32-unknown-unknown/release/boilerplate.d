@@ -1,0 +1,1 @@
+C:\Users\Krystyna\Documents\GitHub\radix-event-october\radixdlt-scrypto\examples\boilerplate\target\wasm32-unknown-unknown\release\boilerplate.wasm: C:\Users\Krystyna\Documents\GitHub\radix-event-october\radixdlt-scrypto\examples\boilerplate\src\lib.rs
